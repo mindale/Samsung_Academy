@@ -3,5 +3,4 @@
 
 
 ***What we can check in my repository:***
-***
 - *Praktik files*
