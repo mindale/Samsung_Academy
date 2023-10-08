@@ -1,1 +1,0 @@
-Hi, it's my git repository from my Academy
